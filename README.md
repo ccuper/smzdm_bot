@@ -1,5 +1,6 @@
 什么值得买每日签到脚本
 20210603update
+20210620update
 ===
     
 <p align="center">
