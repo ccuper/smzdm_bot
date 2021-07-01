@@ -1,6 +1,7 @@
 什么值得买每日签到脚本
 20210603update
 20210620update
+20210701update
 ===
     
 <p align="center">
@@ -12,7 +13,7 @@
 # 0. Test 怎么没自动
 # 1. 实现功能
 + `什么值得买`每日签到
-+ 通过 `SERVERCHAN`推送简单的运行结果到微信
++ 通过 `SERVERCHAN`推送简单的,运行结果到微信
 + 由 `github actions` 每日7点定时运行
 
 # 2. 使用方法
