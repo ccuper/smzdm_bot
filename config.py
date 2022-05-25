@@ -20,7 +20,7 @@ DEFAULT_HEADERS = {
 """
 TEST_COOKIE = ''
 
-
+COOKIES = ''
 """
 调试用 SERVERCHAN_SECRETKEY
 """
